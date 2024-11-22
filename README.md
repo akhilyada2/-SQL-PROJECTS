@@ -1,4 +1,3 @@
-# -SQL-PROJECTS
 # T-Mobile Customer Churn Analysis
 
 ## 📋 Project Overview
