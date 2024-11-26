@@ -1,7 +1,7 @@
-# T-Mobile Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 ## 📋 Project Overview
-This project focuses on analyzing customer churn for T-Mobile using SQL. The dataset provides insights into customer behavior, subscription details, and churn patterns. The goal is to identify factors contributing to customer churn and develop strategies to improve retention.
+This project focuses on analyzing customer churn for Telecom using SQL. The dataset provides insights into customer behavior, subscription details, and churn patterns. The goal is to identify factors contributing to customer churn and develop strategies to improve retention.
 
 ## 🚀 Key Features
 - **Database Design**: Creation of a relational database schema for storing customer data.
@@ -16,7 +16,7 @@ This project focuses on analyzing customer churn for T-Mobile using SQL. The dat
   - Retention and churn rate calculations by tenure and contract types.
 
 ## 🗂️ Project Structure
-- **`TMobile_ChurnAnalysis.sql`**: SQL script for database creation and data analysis.
+- **`Telecom_ChurnAnalysis.sql`**: SQL script for database creation and data analysis.
 - **Dataset**: The Telco Customer Churn dataset (downloaded separately from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)).
 - **Visualizations**: Insights and charts generated using tools like Tableau, Power BI, or Python (optional).
 
@@ -40,7 +40,7 @@ The dataset contains the following key attributes:
 ## 🚀 How to Use
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/TMobile_ChurnAnalysis.git
+   git clone https://github.com/your-username/Telecom_ChurnAnalysis.git
    ```
 2. Load the SQL script `TMobile_ChurnAnalysis.sql` into your SQL Server instance.
 3. Import the Telco Customer Churn dataset into the `Customers` table.
